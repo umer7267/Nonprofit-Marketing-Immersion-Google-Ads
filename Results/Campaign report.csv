@@ -1,0 +1,11 @@
+Campaign report
+17 May 2023 - 17 July 2023
+Campaign status,Campaign,Budget name,Currency code,Budget,Budget type,Currency,Status,Status reasons,Optimisation score,Account,Campaign type,Impr.,Interactions,Interaction rate,Avg. cost,Converted currency code,Avg. cost (Converted currency),Cost,Cost (Converted currency),Bid strategy type,Clicks,Conv. rate,Conversions,Avg. CPC,Avg. CPC (Converted currency),Cost / conv.,Cost (Converted currency)/conv.
+Enabled,Increase Donations,Portfolio Maximise clicks_1232176798-300-1684647397682- created on 21/05/2023 07:36,USD,160.00,Daily,USD,Eligible,unknown,97.23,Pitman Animal Rescue Foundation,Search,"1,177",140,11.89%,1.94,EUR,1.78,271.72,248.92,Maximise clicks,140,4.64%,6.50,1.94,1.78,41.80,38.30
+Enabled,Recruit Volunteers,Portfolio Maximise clicks_1232176798-300-1684647397682- created on 21/05/2023 07:36,USD,160.00,Daily,USD,Eligible,unknown,97.23,Pitman Animal Rescue Foundation,Search,"4,007",572,14.28%,1.93,EUR,1.77,1104.07,1014.42,Maximise clicks,572,6.56%,37.50,1.93,1.77,29.44,27.05
+Enabled,Increase Dog Adoption,Portfolio Maximise conversions_1232176798-300-1684561051634- created on 05/19/2023 10:37 PM,USD,160.00,Daily,USD,Eligible,unknown,100.00,Pitman Animal Rescue Foundation,Search,"17,412","1,540",8.84%,5.16,EUR,4.73,7940.66,7286.17,Maximise conversions,"1,540",4.03%,62.00,5.16,4.73,128.08,117.52
+Total: Campaigns,,,USD,,,,,,,,,"22,596","2,252",9.97%,4.14,EUR,3.80,9316.45,8549.52,,"2,252",4.71%,106.00,4.14,3.80,87.89,80.66
+Total: Manager account,,,EUR,,,,,,,,,0,0, --,0, --,0,0,0,,0,0.00%,0.00,0,0,0,0
+Total: Manager account,,,USD,,,,,,,,,"22,616","2,252",9.96%,4.14,EUR,3.80,9316.45,8549.52,,"2,252",4.71%,106.00,4.14,3.80,87.89,80.66
+Total: Smart,,,USD,,,,,,,,Smart,20,0,0.00%, --,EUR, --,0.00,0.00,,0,0.00%,0.00, --, --,0.00, --
+Total: Search,,,USD,,,,,,,,Search,"22,596","2,252",9.97%,4.14,EUR,3.80,9316.45,8549.52,,"2,252",4.71%,106.00,4.14,3.80,87.89,80.66
